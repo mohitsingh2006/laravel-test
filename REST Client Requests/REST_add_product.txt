@@ -1,0 +1,1 @@
+{"requestUrl":"http://localhost:8000/api/product/add?token=Htp94U1uB6tZoXJ5OKPDT9xJIs2noDYXug1Utr3joUS30Oh3TD5ndJqLF6Fl","requestMethod":"POST","requestBody":"name=2Test&email=test@test.com&productId=45&address=dummy address&height=123.2&weight=123.22&company=HCL&age=22","headers":["Content-type","application/x-www-form-urlencoded"]}

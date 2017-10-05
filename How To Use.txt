@@ -1,0 +1,11 @@
+1) Please import database first, name of the database is "assignment" and you can find the import 
+
+  sql in root directory.
+
+3) Please change .env according to your configuration.
+
+2) I just written the test cases in folder "Rest Client Request" and you can find this in root
+
+directory.
+
+3) Also please run the server command; "php artisan serve" to run the project.
